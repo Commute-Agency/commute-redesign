@@ -1,4 +1,4 @@
-import * as componentsList from "./index";
+import * as componentsList from "./index.js";
 
 const COMPONENTS_LIB = [
 	{
