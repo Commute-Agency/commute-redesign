@@ -1,4 +1,4 @@
-import {slugify} from '../utils'
+import {slugify} from '../utils.js'
 
 export default function pricingForm(component) {
     if (!component) return;
