@@ -1,5 +1,5 @@
-/* @import url(./variables.css);
-@import url(./themes.css); */
+@import url(./variables.css);
+@import url(./themes.css);
 
 body {
   overscroll-behavior: none;
