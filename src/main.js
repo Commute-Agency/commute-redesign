@@ -6,6 +6,7 @@ import {initComponents} from "./libs/components/index.js";
 
 function init() {
 	initComponents();
+	console.log('working')
 }
 
 init()
