@@ -4,7 +4,7 @@ export default function followMouseList(component) {
     const projectList = component.querySelector('[data-component="list"]');
     const projectListItems = [...projectList.children];
     const cover = component.querySelector('[data-component="cover"]');
-    const coverList = component.querySelector('[data-components="cover-list"]');
+    const coverList = component.querySelector('[data-component="cover-list"]');
     const coverSize = cover.clientHeight;
   
     const ANIMATION = {
